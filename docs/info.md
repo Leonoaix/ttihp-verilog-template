@@ -8,13 +8,15 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+testestsetsetsetstestestestsetsetsetstesv
+testestsetsetsetstestestsetsetsetstestes
 
 ## How to test
-
-Explain how to use your project
+testestsetsetsetstestestestsetsetsetstestestestsetsetsetstes
+Explain how totestesttestestsetsetsetstessetsetsetstesuse your project
+testestsetsetsetstestestestsetsetsetstestestestsetsetsetstes
 
 ## External hardware
-
+testestsetsetsetstesvtestestsetsetsetstes
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+testestsetsetsetstestestestsetsetsetstes
